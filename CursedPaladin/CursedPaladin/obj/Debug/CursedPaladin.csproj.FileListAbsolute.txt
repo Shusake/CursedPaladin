@@ -1,0 +1,7 @@
+C:\Users\VOVA\source\repos\CursedPaladin\CursedPaladin\bin\Debug\CursedPaladin.exe.config
+C:\Users\VOVA\source\repos\CursedPaladin\CursedPaladin\bin\Debug\CursedPaladin.exe
+C:\Users\VOVA\source\repos\CursedPaladin\CursedPaladin\bin\Debug\CursedPaladin.pdb
+C:\Users\VOVA\source\repos\CursedPaladin\CursedPaladin\obj\Debug\CursedPaladin.csprojAssemblyReference.cache
+C:\Users\VOVA\source\repos\CursedPaladin\CursedPaladin\obj\Debug\CursedPaladin.csproj.CoreCompileInputs.cache
+C:\Users\VOVA\source\repos\CursedPaladin\CursedPaladin\obj\Debug\CursedPaladin.exe
+C:\Users\VOVA\source\repos\CursedPaladin\CursedPaladin\obj\Debug\CursedPaladin.pdb
